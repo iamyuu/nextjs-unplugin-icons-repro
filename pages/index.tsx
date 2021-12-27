@@ -3,8 +3,8 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 
-import IconAccessibility from "~icons/carbon/accessibility";
-import IconAccountBox from "~icons/mdi/account-box";
+import IconAccessibility from "~icons/carbon/accessibility.jsx";
+import IconAccountBox from "~icons/mdi/account-box.jsx";
 
 const Home: NextPage = () => {
   return (
